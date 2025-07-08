@@ -8,6 +8,13 @@
       "when": 1751945274047,
       "tag": "0000_nasty_solo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752011458939,
+      "tag": "0001_glorious_centennial",
+      "breakpoints": true
     }
   ]
 }
